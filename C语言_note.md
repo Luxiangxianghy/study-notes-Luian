@@ -1,3 +1,13 @@
+<!--
+ * @Author: Luian-
+ * @Date: 2025-09-04 21:19:01
+ * @LastEditors: Luian-
+ * @LastEditTime: 2025-09-04 21:19:19
+ * @FilePath: \vscode.py\study-notes-Luian\C语言_note.md
+ * @Description: 
+ * 
+ * Copyright (c) 2025 by error: git config user.name & please set dead value or install git , All Rights Reserved. 
+-->
 # 1. 链表
 
 ## 1.1 链表概念
