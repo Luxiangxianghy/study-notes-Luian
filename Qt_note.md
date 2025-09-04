@@ -1,8 +1,8 @@
 <!--
  * @Author: Luian-
  * @Date: 2025-09-04 21:19:01
- * @LastEditors: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
- * @LastEditTime: 2025-09-04 23:06:57
+ * @LastEditors: Luian luxiangxiang21@gmail.com
+ * @LastEditTime: 2025-09-04 23:23:38
  * @FilePath: \vscode.py\study-notes-Luian\C语言_note.md
  * @Description: 
  * 
@@ -238,5 +238,6 @@ int getMax(int a, int b, bool(*compare)(int, int)) {
 
 
 请注意，虽然 Lambda 函数和内联函数在某些方面有相似之处，如它们都可以被编译器优化以减少调用开销，但它们在设计和用途上有明显的不同。Lambda 函数的核心优势在于它们的匿名性和对外部变量的捕获能力，而内联函数则主要关注于提高小型函数的性能
+
 
 
